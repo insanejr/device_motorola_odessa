@@ -16,4 +16,4 @@ Display | 1080 x 2400 pixels, 6.81" LTPS IPS LCD, HDR10
 Rear Camera  | 64 MP (f/1.8) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 Front Camera | 25 MP (f/2.0)
 
-![Device Picture](https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-plus-2.jpg)
+![Device Picture](https://http2.mlstatic.com/D_NQ_NP_760671-MLA43875404462_102020-O.jpg)
